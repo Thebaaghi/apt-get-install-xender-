@@ -1,2 +1,2 @@
 # apt-get-install-xender-
-https://www.xender.com
+https://www.xender.pro
